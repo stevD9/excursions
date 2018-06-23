@@ -21,7 +21,6 @@ p {
   font-size: 21px;
   color: grey;
 }
-#copy p {
+.copy p {
   text-align: right;
-  color: grey;
 }
